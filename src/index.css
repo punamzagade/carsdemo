@@ -1,0 +1,25 @@
+#checkb {
+    padding: 10px;
+  }
+ 
+  .list {
+    text-decoration: none;
+    color: #474749;
+  }
+  .list:hover {
+    color: #474749;
+    font-weight: bolder;
+    transform: scale(1.1);
+  }
+  .active {
+    color: black;
+    font-weight: bold;
+  }
+  .userShowIcon {
+    font-style: 16px !important;
+  }
+  
+  .gbtn:hover {
+    transform: scale(1.1);
+  }
+  
