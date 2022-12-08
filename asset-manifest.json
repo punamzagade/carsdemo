@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/carsdemo/static/css/main.99006a4e.css",
+    "main.js": "/carsdemo/static/js/main.2deaa76f.js",
+    "static/media/background car image.png": "/carsdemo/static/media/background car image.7a66b9eff5460f24f60a.png",
+    "index.html": "/carsdemo/index.html",
+    "main.99006a4e.css.map": "/carsdemo/static/css/main.99006a4e.css.map",
+    "main.2deaa76f.js.map": "/carsdemo/static/js/main.2deaa76f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99006a4e.css",
+    "static/js/main.2deaa76f.js"
+  ]
+}
